@@ -1,8 +1,0 @@
-ai-code-reviewer/
-├── app.py          
-├── reviewer.py         
-├── templates/
-│   └── index.html    
-├── static/
-│   └── style.css      
-├── requirements.txt  
