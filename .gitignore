@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Flask cache and instance folders
+instance/
+*.db
+*.sqlite3
+
+# VSCode / PyCharm IDE settings
+.vscode/
+.idea/
+
+# Pytest / Coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
+
+# Upload folders or temporary files
+uploads/
+tmp/
+*.tmp
