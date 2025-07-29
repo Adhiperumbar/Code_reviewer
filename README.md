@@ -47,13 +47,10 @@ http://localhost:5000
 Code_reviewer/
 │
 ├── templates/
-│   └── index.html       # Frontend HTML for file upload and output display
-│
-├── uploads/             # (Temp) Uploaded files stored briefly for linting
-│
-├── app.py               # Main Flask application
-├── requirements.txt     # Python package dependencies
-└── README.md            # Project documentation
+│   └── index.html
+├── app.py
+├── requirements.txt
+└── README.md
 📌 Future Improvements
 Support for other languages (JS, C++, etc.)
 Highlight specific lines of code with issues
