@@ -6,7 +6,7 @@ A simple web app built with **Flask** that allows users to upload Python code fi
 
 ## 🚀 Features
 
-- Upload `.py` files and analyze them instantly
+- Upload python codes and analyze them instantly
 - Displays:
   - Linting feedback from `pylint`
   - "✅ Code is proper ✅" if no issues are found
